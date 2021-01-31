@@ -1,1 +1,1 @@
-for i in range(5):print("HK")
+for i in range(5):print("HK, BU")
